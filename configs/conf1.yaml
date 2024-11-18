@@ -1,0 +1,3 @@
+data_splt: once # once / cv (cross-validation)
+model: x # Name of model to use
+
